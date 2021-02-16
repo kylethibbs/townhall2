@@ -1,0 +1,80 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+}
+
+/* the styles for the section */
+main {
+	clear: left;
+}
+
+main h1{
+	font-size: 150%;
+
+}
+main h2{
+	font-size: 130%;
+	color:#800000;
+
+}
+main h3{
+	font-size: 105%;
+
+
+}
+
+/* the styles for the footer */
+
+/* styles for the h2 element */
+header h2{
+	font-size: 170%;
+	color: #800000;
+	text-indent: 30px;
+
+}
+
+/* styles for the h2 element */
+header h3{
+	font-size: 130%;
+	font-style: italic;
+	text-indent: 30px;
+	
+}
+
+footer p{
+	text-align: center;
+}
+
+/* unvisited link */
+ a:link {
+    font-style: normal;
+}
+
+/* visited link */
+ a:visited {
+    font-style: normal;
+}
+
+/* mouse over link */
+ a:hover {
+    font-style: italic;
+}
+
+/* selected link */
+ a:active {
+    font-style: normal;
+}
+/* selected link */
+a:focus {
+    font-style: italic;
+}
+
+.shadow{
+	text-shadow: 2px 2px #800000;
+}
